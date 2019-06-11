@@ -23,7 +23,7 @@ for (;;counterMP++) {
     else{
         robot.back();
         counterMP--;
-        sleep(300000);
+        sleep(500);
         continue;
     }
 }
